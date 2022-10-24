@@ -1,5 +1,31 @@
 
-www.spks.dk###coiOverlay
+www.computersalg.dk##.coi-banner__summary
+
+www.google.com##.coi-banner__summary
+
+event-client.viabill.com##.coi-banner__summary
+
+vars.hotjar.com##.coi-banner__summary
+
+policy.app.cookieinformation.com##.coi-banner__summary
+
+www.computersalg.dk###coiPage-1 > .coi-banner__page-footer
+
+vars.hotjar.com###coiPage-1 > .coi-banner__page-footer
+
+www.google.com###coiPage-1 > .coi-banner__page-footer
+
+event-client.viabill.com###coiPage-1 > .coi-banner__page-footer
+
+policy.app.cookieinformation.com###coiPage-1 > .coi-banner__page-footer
+
+www.computersalg.dk###coiOverlay
+
+www.google.com###coiOverlay
+
+event-client.viabill.com###coiOverlay
+
+vars.hotjar.com###coiOverlay
 
 policy.app.cookieinformation.com###coiOverlay
 
@@ -9,41 +35,65 @@ www.pricerunner.dk##.JLUIfvkDyR.gbIrjtw4oL
 
 www.pricerunner.dk##.fDEMAzsKfV
 
-www.nemid.nu###CookieReportsBanner
+nordicelectronics.dk###CookiePolicy
 
-www.nemid.nu###CookieReportsOverlay
+widget.trustpilot.com###CookiePolicy
 
-www.borger.dk##.cookie-banner
+widget.trustpilot.com###CookiePolicy
 
-mit.s.dk##.cc-diag
+event-client.viabill.com###CookiePolicy
 
-www.pricerunner.dk##.fDEMAzsKfV
+www.computersalg.dk##.coi-banner__summary
 
-www.pricerunner.dk##.SdyHuCwlgR > .xUAmIg3IAt.pr-0
+event-client.viabill.com##.coi-banner__summary
 
-www.pricerunner.dk##.SdyHuCwlgR
+www.google.com##.coi-banner__summary
 
-www.pricerunner.dk##.JLUIfvkDyR.gbIrjtw4oL
+vars.hotjar.com##.coi-banner__summary
 
-www.pricerunner.dk##.MBgsYXPMYg
+policy.app.cookieinformation.com##.coi-banner__summary
 
-www.pricerunner.dk##.JLUIfvkDyR.gbIrjtw4oL
+www.computersalg.dk###coiPage-1 > .coi-banner__page-footer
 
-www.pricerunner.dk##.fDEMAzsKfV
+vars.hotjar.com###coiPage-1 > .coi-banner__page-footer
 
-www.pricerunner.dk##.MBgsYXPMYg
+event-client.viabill.com###coiPage-1 > .coi-banner__page-footer
 
-www.pricerunner.dk##.JLUIfvkDyR.gbIrjtw4oL
+www.google.com###coiPage-1 > .coi-banner__page-footer
 
-www.pricerunner.dk##.JLUIfvkDyR.gbIrjtw4oL
+policy.app.cookieinformation.com###coiPage-1 > .coi-banner__page-footer
 
-www.pricerunner.dk##.fDEMAzsKfV
+www.computersalg.dk###coiOverlay
 
-www.pricerunner.dk##.MBgsYXPMYg
+event-client.viabill.com###coiOverlay
 
-www.pricerunner.dk##.JLUIfvkDyR.gbIrjtw4oL
+policy.app.cookieinformation.com###coiOverlay
 
-www.pricerunner.dk##.fDEMAzsKfV
+vars.hotjar.com###coiOverlay
+
+www.google.com###coiOverlay
+
+www.dustinhome.dk##.c-box.c-cookie-banner.a-pull-from-below-slow
+
+www.dustinhome.dk###cookie-banner > .c-overlay.a-fade-in
+
+elsalg.dk###CybotCookiebotDialog
+
+consentcdn.cookiebot.com###CybotCookiebotDialog
+
+euronics.focalscope.com###CybotCookiebotDialog
+
+9169412.fls.doubleclick.net###CybotCookiebotDialog
+
+9169412.fls.doubleclick.net###CybotCookiebotDialog
+
+9169412.fls.doubleclick.net###CybotCookiebotDialog
+
+tr.snapchat.com###CybotCookiebotDialog
+
+www.spks.dk##.coi-banner-consent-group
+
+policy.app.cookieinformation.com##.coi-banner-consent-group
 
 www.spks.dk##.coi-banner__summary
 
@@ -53,10 +103,22 @@ www.spks.dk###coiPage-1 > .coi-banner__page-footer
 
 policy.app.cookieinformation.com###coiPage-1 > .coi-banner__page-footer
 
-www.spks.dk##.coi-banner-consent-group
-
-policy.app.cookieinformation.com##.coi-banner-consent-group
-
 www.spks.dk###coiOverlay
+
+policy.app.cookieinformation.com###coiOverlay
+
+www.s.dk##.avia-cookie-consent.avia-cookiemessage-top
+
+www.borger.dk##.cookie-banner
+
+www.nemid.nu###CookieReportsBanner
+
+www.nemid.nu###CookieReportsOverlay
+
+skat.dk###coi-banner-wrapper
+
+policy.app.cookieinformation.com###coi-banner-wrapper
+
+skat.dk###coiOverlay
 
 policy.app.cookieinformation.com###coiOverlay
